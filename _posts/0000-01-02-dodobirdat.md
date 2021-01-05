@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is some text.
+I touch your foods when you no look
 Use the left arrow to go back!
